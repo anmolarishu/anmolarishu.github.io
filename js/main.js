@@ -54,8 +54,8 @@ $(window).on('load', function() {
   $('.percentage-container').addClass('no-width');
   setTimeout(function() {
     window.clearInterval(id);
-    $('.peru').text('Pritam Parker');
-    $('.seira-vela').text('Javascript Deveoper');
+    $('.peru').text('Anmol Arishu');
+    $('.seira-vela').text('Happy Birthday !!');
     $('body').css('overflow', 'auto');
     $('.rendu').css('display', 'block');
     $('.down').css('opacity', 1);
